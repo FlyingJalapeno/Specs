@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "FJCode"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "FJCode Repository"
   s.homepage     = "https://github.com/FlyingJalapeno/FJCode"
   s.license      = 'MIT (readme.md)'
